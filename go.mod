@@ -1,4 +1,4 @@
-module github.com/harold/attendance-golang
+module github.com/harold1194/attendance-golang
 
 go 1.20
 
