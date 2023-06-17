@@ -6,7 +6,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gofiber/fiber/v2"
-	"github.com/harold/attendance-golang/database/models"
+	"github.com/harold1194/attendance-golang/database/models"
 	"gorm.io/gorm"
 )
 

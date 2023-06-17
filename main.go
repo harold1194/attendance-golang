@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/harold/attendance-golang/routes"
+	"github.com/harold1194/attendance-golang/routes"
 )
 
 func main() {
